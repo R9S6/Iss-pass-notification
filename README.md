@@ -17,7 +17,7 @@ An Android app built with **Kotlin** and **Jetpack Compose** that notifies users
 - **AndroidX libraries** (Compose BOM, Lifecycle, Core-KTX)
 
 ## 📷 Screenshots
-*(Add emulator/device screenshots here once you run the app)*
+![App Screenshot](screenshotsemu/app.png)
 
 ## 🚀 How to Run
 1. Clone this repo:
